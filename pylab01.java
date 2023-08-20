@@ -13,7 +13,7 @@ public static void main(String[] args) {
         fl = true;
     }while(vida < 3 & !fl );
     if (fl == true)
-        System.out.println("Correcto Adivinaste ");
+        System.out.println("Correcto. Usted se a ganado un celular. ");
     else
         System.out.println("Vaya, has perdido");
     }
