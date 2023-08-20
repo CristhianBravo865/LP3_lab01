@@ -15,6 +15,6 @@ public static void main(String[] args) {
     if (fl == true)
         System.out.println("Correcto Adivinaste ");
     else
-        System.out.println("ups, perdiste...");
+        System.out.println("Vaya, has perdido");
     }
 }
